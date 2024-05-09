@@ -4,7 +4,6 @@
 
 This program provides a unique opportunity for students to work on real-world problems, enhancing their understanding of the industry and enriching their learning experience.
 
-In this repository, you will find the tasks assigned during the program.
 
 ## Task 1: Iris Flowers Classification ML Project
 
